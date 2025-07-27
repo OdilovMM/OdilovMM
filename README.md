@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on enhancing and adding features [LearnAcademy Startup](http://144.202.18.56:3000)
 
+- 📫 Currently diving deep inside the DevOps Engineering... Started again a big journey haha
+
 - 💬 Ask me about **reactjs, nextjs, nodejs, expressjs, nestjs, mongodb, postgresql**
 
 - 📫 How to reach me **dssrinman@gmail.com**
